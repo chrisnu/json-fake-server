@@ -1,0 +1,46 @@
+{
+  "business": [
+    {
+      "id": 1,
+      "name": "RS JIH",
+      "address": "Jl Patimura 123"
+    },
+    {
+      "id": 2,
+      "name": "Klinik kecantikan",
+      "address": "Jl Dipenogro 123"
+    },
+    {
+      "id": 3,
+      "name": "Natasha",
+      "address": "Jl Kaliurang 123"
+    },
+    {
+      "id": 4,
+      "name": "Dr Tedy",
+      "address": "Mg Setos"
+    }
+  ],
+  "attendant": [
+    {
+      "id": 1,
+      "name": "Dr Boyke",
+      "business_id": 2
+    },
+    {
+      "id": 2,
+      "name": "Dr Richard Lee",
+      "business_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Dr Alfons",
+      "business_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Mas Tedy",
+      "business_id": 4
+    },
+  ]
+}
